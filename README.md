@@ -5,7 +5,7 @@
 I build interfaces that feel good to use — from the first interaction to the last detail.
 Currently focused on web development and creative tooling.
 
-[LinkedIn](https://linkedin.com/in/dan-phan-nguyen-7a55a3251) · [Portfolio](https://danpn.eu_) · [Email](mailto:danphannguyen.contact@gmail.com)
+[LinkedIn](https://linkedin.com/in/dan-phan-nguyen-7a55a3251) · [Portfolio](https://danpn.eu) · [Email](mailto:danphannguyen.contact@gmail.com)
 
 ---
 
